@@ -1,2 +1,3 @@
 # IMDB-250
-An example of basic web scraping on IMDB webpage.
+Open main.py file in Python IDLE and run module.
+Data.json file will be created.
